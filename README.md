@@ -98,3 +98,11 @@ Create a predictive model using machine learning techniques to predict employee 
         - Identified important predictors for employee performance
         - Applied various algorithms for target Prediction
         - Conducted department-wise performance analysis
+
+- **Recommendation**
+    - **The top 3 features effecting employee performances are:** 
+        - Employee Environment Satisfaction 
+        - Employee Last Salary Hike Percent 
+        - Years since last promotion
+    - Our findings reveal a clear connection between a supportive work environment and employee performance. Offering competitive compensation and promoting work-life balance are crucial elements in fostering employee success.  However, maintaining stable leadership is equally important, as frequent managerial changes can disrupt this positive influence.
+    - This suggests that creating a holistic approach to employee support, encompassing both financial and non-financial factors, is essential for optimizing individual performance and achieving organizational objectives.
